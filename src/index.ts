@@ -1,2 +1,2 @@
-let a: number = 14;
+let a = 'hello world!';
 console.log(a);
