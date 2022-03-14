@@ -1,7 +1,7 @@
 {
-	"name": "quizstellation-discordjs",
+	"name": "over-engineered-helloworld-nodejs",
 	"version": "1.0.0",
-	"description": "",
+	"description": "This is a containerized scalable production-ready hello world! app built with node.js and TypeScript",
 	"main": "index.js",
 	"scripts": {
 		"dev": "nodemon src/index.ts",
